@@ -12,9 +12,12 @@ I will be adding future functionality such as cryptos and showing what stock was
 To customize:
 
 (Line 18)feel free to change the name of the applePrice variable to just simply price or to the desired company name.
+
 (Lines 32 -33) to change the subject just change the contents within the colons, do the same to change the message within
 the body.
+
 (Lines 41-43) remember to change to the correct parameters in the server.sendmail. The first parameter is the from 
 address,the second parrameter is the to addrress, and the third parameter is the message.
+
 (Line 48)The value within the time.sleep() is in seconds, the default time is to check every minute, Feel free to change 
 this to whatever you feel is appropiate.
