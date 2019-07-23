@@ -44,4 +44,4 @@ def send_mail():
 
 while(True):
     check_price()
-    time.sleep(60s)
+    time.sleep(60)
