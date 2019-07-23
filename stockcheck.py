@@ -1,4 +1,4 @@
-#adding time
+#adding time and simple main transfer protocol
 import time
 import smtplib
 #adding in the pip install from yahoo
