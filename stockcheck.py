@@ -18,7 +18,7 @@ applePrice = si.get_live_price("aapl")
 
 #function to check the price
 def check_price():
-        if(applePrice = 218):
+        if(applePrice < 218):
             send_mail()
 
 #define the server function to send the sendMail
