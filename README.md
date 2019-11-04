@@ -4,7 +4,7 @@ another stock just change the ticker symbol in line 18.
 
 
 # Code explanation:
-Line 11 - 15 I was just debugging to make sure that the import stock info was actually working throuhg the terminal.
+Line 11 - 15 I was just debugging to make sure that the import stock info was actually working through the terminal.
 
 # Future functionality:
 I will be adding future functionality such as cryptos and showing what stock was the biggest gainer/loser of the day. 
